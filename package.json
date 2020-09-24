@@ -1,0 +1,18 @@
+{
+  "name": "freddit",
+  "author": "Victor Wolmeister",
+  "version": "1.0.0",
+  "license": "ISC",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0",
+    "typescript": "^4.0.3",
+    "vite": "^1.0.0-rc.4"
+  }
+}
